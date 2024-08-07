@@ -1,6 +1,10 @@
 html {
   height: 100%;
   width: 100%;
+  
+  background: linear-gradient(white, moccasin);
+  background-attachment: fixed;
+  
   img {
     width: 200px;
   }
@@ -13,8 +17,8 @@ html {
   }
   body {
     text-align: center;
-    font-family: 'Arial';
-    background: azure;
-    color: purple;
+    font-family: 'Tahoma';
+    
+    color: darkolivegreen;
   }
 }
